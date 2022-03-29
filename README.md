@@ -8,6 +8,8 @@ Now, build a chrome extension which will solve this question automatically!
 
 Head over to the [Moodle+](/Moodle+) folder for instructions
 
+https://user-images.githubusercontent.com/25268894/160628431-63437f0d-7cf4-43f0-bf09-4a58ae6bc27f.mp4
+
 ## Task 2: Wordle+
 
 The current implementation of [Wordle](https://www.nytimes.com/games/wordle/index.html) is based completely on the front-end javascript code, so it is possible to find the answer by looking at the main javascript file of that page. Try doing this yourself!
@@ -15,6 +17,12 @@ The current implementation of [Wordle](https://www.nytimes.com/games/wordle/inde
 This is not a secure way, so we are going to make a simple API, where the user can only make requests to our server with the guess, and the server returns the feedback response. This way, the user will not be able to directly hack the secret answer out of the program
 
 Head over to the [Wordle+](/Wordle+) folder for instructions
+
+![image](https://user-images.githubusercontent.com/25268894/160629837-edce4530-21d5-4464-884b-8cff5bb92653.png)
+
+![image](https://user-images.githubusercontent.com/25268894/160629894-aa46bd30-aabf-4fd4-8b25-509c2cfeb487.png)
+
+
 
 ## Task 3: Covid Stats
 
@@ -30,7 +38,6 @@ One such repository is by [John Hopkins University](https://github.com/CSSEGISan
 
 ### Bonus
 You can think of more useful data points to display, and also try to give more controls in the chart, allowing the user to select the number of days they want to see, and maybe even select the location to global, or country-wise or state-wise. Feel free to show your creativity in this
-
 
 # Submission Instructions
 
