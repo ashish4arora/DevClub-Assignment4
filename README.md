@@ -9,6 +9,7 @@ Now, build a chrome extension which will solve this question automatically!
 Head over to the [Moodle+](/Moodle+) folder for instructions
 
 [COMPLETED]
+
 https://user-images.githubusercontent.com/25268894/160628431-63437f0d-7cf4-43f0-bf09-4a58ae6bc27f.mp4
 
 ## Task 2: Wordle+
