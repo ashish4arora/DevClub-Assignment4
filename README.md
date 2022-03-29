@@ -8,6 +8,7 @@ Now, build a chrome extension which will solve this question automatically!
 
 Head over to the [Moodle+](/Moodle+) folder for instructions
 
+[COMPLETED]
 https://user-images.githubusercontent.com/25268894/160628431-63437f0d-7cf4-43f0-bf09-4a58ae6bc27f.mp4
 
 ## Task 2: Wordle+
@@ -18,6 +19,7 @@ This is not a secure way, so we are going to make a simple API, where the user c
 
 Head over to the [Wordle+](/Wordle+) folder for instructions
 
+[COMPLETED]
 ![image](https://user-images.githubusercontent.com/25268894/160629837-edce4530-21d5-4464-884b-8cff5bb92653.png)
 
 ![image](https://user-images.githubusercontent.com/25268894/160629894-aa46bd30-aabf-4fd4-8b25-509c2cfeb487.png)
