@@ -6,6 +6,29 @@
 	<title>Covid Charts</title>
 </head>
 <body>
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<div class = "divider">
+		<div class = "category">
+			<center>
+				<h1>India</h1>
+				<h2>Cases Today: <span id = "dailyindia">111</span></h2>
+				<h2>Total Cases: <span id = "totalindia">111</span></h2>
+				<div>
+					<canvas id="myChart" width="400" height="200"></canvas>
+				</div>
+			</center>
+		</div>
+		<div class = "category">
+			<center>
+				<h1>Global</h1>
+				<h2>Cases Today: <span id = "dailyglobal">111</span></h2>
+				<h2>Total Cases: <span id = "totalglobal">111</span></h2>
+				<div>
+					<canvas id="worldChart" width="400" height="200"></canvas>
+				</div>
+			</center>
+		</div>
+	</div>
 	<script src="https://cdn.jsdelivr.net/npm/chart.js@3/dist/chart.min.js"></script>
 	<script src="script.js"></script>
 </body>

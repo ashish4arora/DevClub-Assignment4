@@ -1,0 +1,12 @@
+.divider{
+    display: flex;
+    justify-content:space-between;
+}
+
+.category{
+    width: 50vw;
+}
+
+h2 span{
+    font-weight: 500;
+}
